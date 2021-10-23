@@ -1,0 +1,44 @@
+.card {
+    margin: 20px;
+}
+
+.card-img-top {
+    min-height: 450px;
+}
+
+.card-body{
+}
+
+.card-title {
+    min-height: 72px;
+    margin-top: .75rem;
+}
+.desc{
+    overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 7;
+  -webkit-box-orient: vertical;
+  font-weight: 700;
+}
+
+a {
+    color: rgb(255, 160, 160);
+    text-decoration: none;
+    font-weight: 700;
+}
+
+a:hover{
+    color: #ff5f02;
+}
+
+.list-group {
+    font-weight: 900;
+}
+
+.btn-info {
+    color: #ff02ff;
+    border-color: blue;
+}
+
+.list-group-item {
+}
